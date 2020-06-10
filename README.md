@@ -21,7 +21,7 @@
 
 ### 2.然后把 tymyd_android.py下载到手机的qpython目录下  
 
-### 3.在qpython下面新建文件1.txt 把QQ空间的cookie复制进去（浏览器按F12获取cookie）  
+### 3.在qpython下面新建文件1.txt 把QQ空间的cookie复制进去（浏览器按F12点刷新获取cookie）  
 
 ![图片5](https://github.com/intAV/tymyd/blob/master/pic/5.png)  
 ![图片6](https://github.com/intAV/tymyd/blob/master/pic/6.png)  
