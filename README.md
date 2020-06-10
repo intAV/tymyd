@@ -13,22 +13,22 @@
 ##### pip3 install requests  
 ##### pip3 install colorama 
 
-![](https://github.com/intAV/tymyd/blob/master/pic/1.png)  
-![](https://github.com/intAV/tymyd/blob/master/pic/2.png)  
-![](https://github.com/intAV/tymyd/blob/master/pic/3.png)  
-![](https://github.com/intAV/tymyd/blob/master/pic/4.png)  
+![图片1](https://github.com/intAV/tymyd/blob/master/pic/1.png)  
+![图片2](https://github.com/intAV/tymyd/blob/master/pic/2.png)  
+![图片3](https://github.com/intAV/tymyd/blob/master/pic/3.png)  
+![图片4](https://github.com/intAV/tymyd/blob/master/pic/4.png)  
  
 
 ### 2.然后把 tymyd_android.py下载到手机的qpython目录下  
 
 ### 3.在qpython下面新建文件1.txt 把QQ空间的cookie复制进去（浏览器按F12获取cookie）  
 
-![](https://github.com/intAV/tymyd/blob/master/pic/5.png)  
-![](https://github.com/intAV/tymyd/blob/master/pic/6.png)  
+![图片5](https://github.com/intAV/tymyd/blob/master/pic/5.png)  
+![图片6](https://github.com/intAV/tymyd/blob/master/pic/6.png)  
 
 #### 只需要skey和uin就行了  
-![](https://github.com/intAV/tymyd/blob/master/pic/7.png)  
+![图片7](https://github.com/intAV/tymyd/blob/master/pic/7.png)  
 
 ### 4.运行 tymyd_android.py  
-![](https://github.com/intAV/tymyd/blob/master/pic/8.png)  
-![](https://github.com/intAV/tymyd/blob/master/pic/9.png)  
+![图片8](https://github.com/intAV/tymyd/blob/master/pic/8.png)  
+![图片9](https://github.com/intAV/tymyd/blob/master/pic/9.png)  
