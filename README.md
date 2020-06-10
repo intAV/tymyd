@@ -5,12 +5,13 @@
 
 ## 使用方式:
 
-### 1.安卓手机安装python3环境 https://android.myapp.com/myapp/detail.htm?apkName=com.hipipal.qpy3  
+### 1.安卓手机安装python3环境  
+##### https://android.myapp.com/myapp/detail.htm?apkName=com.hipipal.qpy3  
 
 ##### 安装第三方库 [QPYPI] [Pip console] 
 
-#### pip3 install requests  
-#### pip3 install colorama 
+##### pip3 install requests  
+##### pip3 install colorama 
 
 ![](https://github.com/intAV/tymyd/blob/master/pic/1.png)  
 ![](https://github.com/intAV/tymyd/blob/master/pic/2.png)  
