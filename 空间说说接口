@@ -21,6 +21,15 @@ https://apps.game.qq.com/wuxia_cgi/ZoneTranspondCgi/index.php?act=requestTranspo
 
 
 
+获取关注:
+
+https://apps.game.qq.com/wuxia_cgi/ZoneTranspondCgi/index.php?act=requestTranspond&sMethodPath=/api/user/getbefriends&callback=jQuery17106452051136608634_1591967033290&uin=1192769569&friendUserId=7904671&lastIndex=null&_=1591968092310
+
+关注好友:
+
+https://apps.game.qq.com/wuxia_cgi/ZoneTranspondCgi/index.php?act=requestTranspond&sMethodPath=/api/user/addfriend&callback=jQuery17108775488098925086_1590137624416&uin=1192769569&userId=7904671&friendUserId=3905844&_=1590138060563
+
+jQuery17108775488098925086_1590137624416({"iRet":"0","sMsg":"\u6210\u529f","jData":{"iStatus":"0","jData":"{\"result\":0,\"returnCode\":0,\"returnMsg\":\"\",\"data\":{\"userId\":3905844,\"canChat\":true,\"canAdd\":false}}"}});
 
 
 
