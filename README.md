@@ -13,24 +13,24 @@
 ##### pip3 install requests  
 ##### pip3 install colorama 
 
-![图片1](https://github.com/intAV/tymyd/blob/master/pic/1.png)  
-![图片2](https://github.com/intAV/tymyd/blob/master/pic/2.png)  
-![图片3](https://github.com/intAV/tymyd/blob/master/pic/3.png)  
-![图片4](https://github.com/intAV/tymyd/blob/master/pic/4.png)  
+![图片1](https://s1.ax1x.com/2020/06/12/tX4trn.png)  
+![图片2](https://s1.ax1x.com/2020/06/12/tX4YKs.png)  
+![图片3](https://s1.ax1x.com/2020/06/12/tX4Gvj.png)  
+![图片4](https://s1.ax1x.com/2020/06/12/tX482Q.md.png)  
  
 
 ### 2.然后把 tymyd_android.py下载到手机的qpython目录下  
 
 ### 3.在qpython下面新建文件1.txt 把QQ空间的cookie复制进去（浏览器打开QQ空间按F12在命令终端输入命令）  
 
-![图片5](https://github.com/intAV/tymyd/blob/master/pic/5.png)  
+![图片5](https://s1.ax1x.com/2020/06/12/tX438g.png)  
 
 ##### 命令: javascript:document.write(document.cookie)
 
  
-![图片6](https://github.com/intAV/tymyd/blob/master/pic/6.png)  
-![图片7](https://github.com/intAV/tymyd/blob/master/pic/7.png)  
+![图片6](https://s1.ax1x.com/2020/06/12/tX4Nbq.md.png)  
+![图片7](https://s1.ax1x.com/2020/06/12/tX4aV0.md.png)  
 
 ### 4.运行 tymyd_android.py  
-![图片8](https://github.com/intAV/tymyd/blob/master/pic/8.png)  
-![图片9](https://github.com/intAV/tymyd/blob/master/pic/9.png)  
+![图片8](https://s1.ax1x.com/2020/06/12/tX4daV.md.png)  
+![图片9](https://s1.ax1x.com/2020/06/12/tX4w5T.md.png)  
