@@ -25,7 +25,7 @@
 
 ![图片5](https://github.com/intAV/tymyd/blob/master/pic/5.png)  
 
-javascript:document.write(document.cookie)
+##### 命令: javascript:document.write(document.cookie)
 
  
 ![图片6](https://github.com/intAV/tymyd/blob/master/pic/6.png)  
