@@ -30,7 +30,7 @@
  
 ![图片6](https://s1.ax1x.com/2020/06/23/NNVbkQ.png)  
 只需要uin后面的的值和skey的值就行了
-![图片7](https://s1.ax1x.com/2020/06/23/NNeJPJ.md.png)  
+![图片7](https://s1.ax1x.com/2020/06/23/NNMGcj.md.png)  
 
 ### 4.运行 tymyd_android.py  
 ![图片8](https://s1.ax1x.com/2020/06/12/tX4daV.md.png)  
