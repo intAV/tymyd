@@ -48,6 +48,8 @@ http://suo.im/6fiHEU
 https://apps.game.qq.com/wuxia_cgi/ZoneTranspondCgi/index.php?act=requestTranspond&sMethodPath=/api/moment/topicmomentlist&callback=jQuery17107258162017796443_1590315308496&gameId=10002&userId=7904671&fromIds=&topicId=138555&sortType=1&_=1590315309334
 
 
+获取userid:
+https://apps.game.qq.com/wuxia_cgi/ZoneTranspondCgi/index.php?act=requestTranspond&sMethodPath=/api/getuserid&callback=jQuery17101425417301713745_1592886860064&uin=1639983233
 
 
 个人主页:
