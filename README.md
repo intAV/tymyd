@@ -28,9 +28,12 @@
 ##### 命令: javascript:document.write(document.cookie)
 
  
-![图片6](https://s1.ax1x.com/2020/06/12/tX4Nbq.md.png)  
-![图片7](https://s1.ax1x.com/2020/06/12/tX4aV0.md.png)  
+![图片6](https://s1.ax1x.com/2020/06/23/NNVbkQ.png)  
+只需要uin后面的的值和skey的值就行了
+![图片7](https://s1.ax1x.com/2020/06/23/NNeJPJ.md.png)  
 
 ### 4.运行 tymyd_android.py  
 ![图片8](https://s1.ax1x.com/2020/06/12/tX4daV.md.png)  
 ![图片9](https://s1.ax1x.com/2020/06/12/tX4w5T.md.png)  
+
+每隔一段时间cookie会失效，重复步骤3再运行就行了
