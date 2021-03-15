@@ -49,7 +49,7 @@ https://apps.game.qq.com/wuxia_cgi/ZoneTranspondCgi/index.php?act=requestTranspo
 
 
 获取userid:
-https://apps.game.qq.com/wuxia_cgi/ZoneTranspondCgi/index.php?act=requestTranspond&sMethodPath=/api/getuserid&callback=jQuery17101425417301713745_1592886860064&uin=1639983233
+https://apps.game.qq.com/wuxia_cgi/ZoneTranspondCgi/index.php?act=requestTranspond&sMethodPath=/api/getuserid&callback=jQuery17101425417301713745_1592886860064&uin=1192769569
 
 
 个人主页:
@@ -124,7 +124,7 @@ Sec-Fetch-Mode: navigate
 Sec-Fetch-User: ?1
 Accept-Encoding: gzip, deflate, br
 Accept-Language: zh-CN,zh;q=0.9
-Cookie: pgv_pvi=1715803136; pgv_pvid=3301987761; RK=1pAdkfKGdD; ptcz=b5f0a361ffeb806a4146e43f7847b12f6939c3b355ac940b9d27bd4fb3906600; eas_sid=I1a5S8q5B3H9r90303s676E5q2; psrf_qqaccess_token=3FC957E084210883ACF0584D9FA7D4BC; psrf_access_token_expiresAt=1593257253; psrf_qqrefresh_token=35AFEE2C13179EF5F1B9EE64BAEE8F65; psrf_qqunionid=D47DFCBBE769E1B57AA5AF32B7A646A6; psrf_qqopenid=61A4AE31AF7BB7FF37DBA95AF9C7B0EB; tvfe_boss_uuid=d044f4a88eef8e6c; ptui_loginuin=1639983233; uin_cookie=o1639983233; ied_qq=o1639983233; pac_uid=1_1639983233; XWINDEXGREY=0; o_cookie=1639983233; pgv_info=ssid=s3814960568; pgv_si=s586866688; uin=o1192769569; skey=@y5DDoeJG6; p_uin=o1192769569; pt4_token=1YKRgaAU34wBxCdmwUD72MTpeyHRAO26A40webLzyio_; p_skey=xPTl86jz8w*KbvEo-NM66T8goz0S5FlaJYcSUQ2CF9M_; IED_LOG_INFO2=userUin%3D1192769569%26nickName%3D2toPt%26nickname%3D2toPt%26userLoginTime%3D1590137133%26logtype%3Dqq%26loginType%3Dqq%26uin%3D1192769569; wuxiaqqcomrouteLine=a20180423myzone_a20180423myzone_a20180423myzone_a20180423myzone_a20180423myzone_a20180423myzone_a20180423myzone; tokenParams=%3FfriendUserId%3D7900000%26myuin%3D1192769569; _pcmgr_localtk=Md3cyihCmc; _qpsvr_localtk=ZMJpMLXeGR
+Cookie: pgv_pvi=1715803136; pgv_pvid=3301987761; RK=1pAdkfKGdD; ptcz=b5f0a361ffeb806a4146e43f7847b12f6939c3b355ac940b9d27bd4fb3906600; eas_sid=I1a5S8q5B3H9r90303s676E5q2; psrf_qqaccess_token=3FC957E084210883ACF0584D9FA7D4BC; psrf_access_token_expiresAt=1593257253; psrf_qqrefresh_token=35AFEE2C13179EF5F1B9EE64BAEE8F65; psrf_qqunionid=D47DFCBBE769E1B57AA5AF32B7A646A6; psrf_qqopenid=61A4AE31AF7BB7FF37DBA95AF9C7B0EB; tvfe_boss_uuid=d044f4a88eef8e6c; ptui_loginuin=1192769569; uin_cookie=o1192769569; ied_qq=o1192769569; pac_uid=1_1192769569; XWINDEXGREY=0; o_cookie=1639983233; pgv_info=ssid=s3814960568; pgv_si=s586866688; uin=o1192769569; skey=@y5DDoeJG6; p_uin=o1192769569; pt4_token=1YKRgaAU34wBxCdmwUD72MTpeyHRAO26A40webLzyio_; p_skey=xPTl86jz8w*KbvEo-NM66T8goz0S5FlaJYcSUQ2CF9M_; IED_LOG_INFO2=userUin%3D1192769569%26nickName%3D2toPt%26nickname%3D2toPt%26userLoginTime%3D1590137133%26logtype%3Dqq%26loginType%3Dqq%26uin%3D1192769569; wuxiaqqcomrouteLine=a20180423myzone_a20180423myzone_a20180423myzone_a20180423myzone_a20180423myzone_a20180423myzone_a20180423myzone; tokenParams=%3FfriendUserId%3D7900000%26myuin%3D1192769569; _pcmgr_localtk=Md3cyihCmc; _qpsvr_localtk=ZMJpMLXeGR
 
 
 
