@@ -85,7 +85,6 @@ def doDianzan(momentId):
 #说说评论
 def doPinglun(momentId):
 	time.sleep(3)
-	#url = "https://apps.game.qq.com/wuxia_cgi/ZoneTranspondCgi/index.php?act=requestTranspond&sMethodPath=/api/moment/addcomment&callback=jQuery17108402774150402388_1590{}&uin=1192769569&userId=7904671&roleId=1318055637&text=%e7%a9%ba%e9%97%b4%e4%ba%92%e8%b8%a9%e4%ba%92%e5%85%b3&momentId={}&replyCommentId=0"
 	text = time.strftime("%m", time.localtime()) + "." + time.strftime("%d", time.localtime())
 	url = "https://apps.game.qq.com/wuxia_cgi/ZoneTranspondCgi/index.php?act=requestTranspond&sMethodPath=/api/moment/addcomment&callback=jQuery17108402774150402388_1590{}&uin={}&userId={}&roleId=1318055637&text={}&momentId={}&replyCommentId=0"
 	headers = {
